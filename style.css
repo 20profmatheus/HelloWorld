@@ -5,4 +5,14 @@ h2 {
 body {
     background-color: darkgray;
     color: white;
+    font-family: Roboto;
+    text-align: center;
+}
+
+header{
+    border-bottom: 1px solid grey;
+}
+
+footer {
+    border-top: 1px solid grey; 
 }
